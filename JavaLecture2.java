@@ -5,7 +5,7 @@ public class JavaLecture2 {
     public static void main(String[] args) {
 
         java.lang.System.out.println("Hi Java");
-        // jdk-15      ---  JDK
+        // jdk-15      ---  JDK (Java Development Kit)
         // java.base   ---  Defines the foundational APIs of the Java SE Platform
         // java        ---  Package
         // lang        ---  Sub Package 
