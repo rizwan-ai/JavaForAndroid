@@ -14,9 +14,10 @@ public class JavaLecture3 {
         out.println("Hi Java");
 
         // java.lang   ---  Package
-        // System      ---  Class
-        // out         ---  Field
-        // println()   ---  Method
+        // System      ---  Class  (The System class contains several useful class fields and methods. It cannot be instantiated.)
+        //             ---          Among the facilities provided by the System class are standard input, standard output, and error output streams.
+        // out         ---  Field  (The "standard" output stream.)
+        // println()   ---  Method (Prints a String and then terminate the line. This method behaves as though it invokes print(String) and then println().)
 
         // com.rit     ---  Package
         // Main        ---  Class
