@@ -12,7 +12,7 @@ public class JavaLecture5 {
         // public class JavaLecture5
         // Here is a class named "JavaLecture5". The class contains the "main method" for starting the program.
         // - "public" keyword is an access modifier
-        // - "class" keyword
+        // - "class" keyword is used to declare a class in java
 
         // public static void main(String[] args)
         // - The keyword "public" indicates that the method can be invoked from everywhere
