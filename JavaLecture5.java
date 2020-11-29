@@ -52,7 +52,7 @@ public class JavaLecture5 {
 
 
         // Types of Java Variables
-        // - Local Variable     (within method - main method or user-defined method)
+        // - Local Variable     (within method or block)
         // - Instance Variable
         // - Static Variable
     }
